@@ -1,4 +1,8 @@
 # jumpcutterCOMPILED.EXE
+
+## Download: github won't let me upload files bigger than 25mb :(
+   AdFly instant link: http://j.gs/Ctyb
+
 YOU ONLY NEED TO INSTALL FFMPEG AND YOU'RE READY TO AUTOMATICALLY CUT VIDZ ON WINDOWS
 
 ## WARNING: YOU HAVE TO INSTALL FFMPEG MANUALLY
